@@ -1,0 +1,11 @@
+# OSX 
+.DS_store
+
+# Sequences
+sequences/*
+
+# Input structures
+inputs/*
+
+# Structures
+structures/*
